@@ -1,0 +1,50 @@
+[
+    {
+        "id": "01",
+        "name": "VLSI Design",
+        "heading": "VLSI design introduces students to fabrication and layout techniques necessary to design large scale systems. Specific topics include: CMOS logic, MOSFET theory, layout design rules including all the factors required for an effective circuit design.",
+        "description": "VLSI Stands for Very-large-scale integration (VLSI), which creates an integrated circuit (IC) by combining millions of MOS( Metal Oxide Silicon transistor)transistors over a single chip. VLSI started in the 1970s when MOS ( Metal Oxide Silicon transistor) integrated circuit chips were broadly adopted, enabling compound semiconductor and telecommunication technologies to be explained. The microprocessor and memory chips are VLSI (Very-large-scale integration) devices. Before the intro of VLSI technology, most ICs had a limited set of roles they could perform.",
+        "duraion": "180 Hr",
+        "photo_url": "https://www.electronicshub.org/wp-content/uploads/2014/10/VLSI-Chip.jpg"
+    },
+    {
+        "id": "02",
+        "name": "Software Engineering ",
+        "heading": "Software engineering is a discipline that allows us to apply engineering and computer science concepts in the development and maintenance of reliable, usable, and dependable software. ",
+        "description": "The purpose of this course is to present software engineering as a body of knowledge. The course is designed to present software engineering concepts and principles in parallel with the software development life cycle. The course will begin with an introduction to software engineering, giving you a definition of this body of knowledge, as well as a discussion of the main methodologies of software engineering. You will then learn about the Software Development Life Cycle (SDLC), major methodologies followed by software modeling using Unified Modeling Language (UML), a standardized general-purpose modeling language used to create visual models of object-oriented software. You will go on to learn about major phases of the SDLC: analysis, design, coding/implementation, and testing. You will also learn about project management for the purpose of delivering high-quality software that satisfies customer needs and is within budget. By the time the course is complete, you will master software engineering concepts, principles, and essential processes of the SDLC. You will demonstrate this knowledge by creating artifacts for requirements gathering, analysis, and design phases using UML.",
+        "duraion": "250 Hr",
+        "photo_url": "https://www.springboard.com/blog/wp-content/uploads/2020/07/what-skills-do-you-need-to-become-a-software-engineer.png"
+    },
+    {
+        "id": "03",
+        "name": "Digital Signal Processing",
+        "heading": "Digital signal processing” is an сore course. Course starts from the basic concepts of discrete-time signals and proceed to learn how to analyze data via the Fourier transform, how to manipulate data via digital filters and how to convert analog signals into digital.",
+        "description": "The field of Digital Signal Processing (DSP) continues to evolve and play a central role in modern electronics. In fact, DSP is so ubiquitous that the field is somewhat disappearing as a discrete entity. Many systems today, such as IMAX, HDTV, mp3 players, Internet audio and video, and Voice over IP, use powerful DSP concepts as their foundations. DSP is a logical extension of Signals and Systems in which we take a comprehensive view of discrete-time systems. The course covers the essential elements of a DSP system from A/D conversion through powerful statistical modeling algorithms. This course includes both theory and practice with an emphasis on how to implement efficient algorithms in C/C++. We begin with a discussion of basic DSP concepts such as sampling and discrete-time signal representations. We the discuss traditional topics such as transforms and filter design. We conclude with a discussion of implementation issues. An integral part of the course are computer assignments designed to reinforce theoretical concepts. MATLAB is is used as well to rapidly prototype algorithms. C/C++ is used to understand how to efficiently implement algorithms.",
+        "duraion": "200 Hr",
+        "photo_url": "https://assets.skyfilabs.com/images/blog/list-of-good-digital-signal-processing-projects.webp"
+    },
+    {
+        "id": "04",
+        "name": "Digital Image Processing",
+        "heading": "In this course students will learn digital image processing techniques including representation, sampling and quantization, image acquisition, imaging geometry, image transforms, image enhancement, image smoothing and sharpening, and image restoration. More advanced topics include degradation models, image filtering, color image processing, and image segmentation.",
+        "description": "Since 1964 the advent of large-scale digital computers and the space program have made digital image processing one of the most rapidly growing fields in electrical engineering. Now image processing has found much more wide applications not only in the space program, but also in the areas such as medicine, biology, industrial automation, astronomy, law enforcement, defense, intelligence. With the progress made in multimedia these days, digital image processing finds more wide applications. It has become an indispensable part of our digital age. This course is for the first year graduate and senior undergraduate students.",
+        "duraion": "240 Hr",
+        "photo_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/12/digital-image-processing-1.jpg"
+    },
+    {
+        "id": "05",
+        "name": "Machine Learning",
+        "heading": "Machine Learning is a branch of Computer Science that uses algorithms to imitate the way in which humans learn. It uses statistical methods to train algorithms and make predictions. The accuracy of these predictions improves over time.",
+        "description": "It provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.) By the end of this Specialization, you will have mastered key concepts and gained the practical know-how to quickly and powerfully apply machine learning to challenging real-world problems. If you’re looking to break into AI or build a career in machine learning, the new Machine Learning Specialization is the best place to start.",
+        "duraion": "230 Hr",
+        "photo_url": "https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960"
+    },
+    {
+        "id": "06",
+        "name": "Computational Optimization Lab",
+        "heading": "In this course we develop effective computational methods for large-scale optimization problems in which some or all of the variables must take on integral values.",
+        "description": "The course starts with a review of modeling aspects in integer programming and continues with a survey of relaxation, decomposition, and cutting plane methods for solving large–scale integer programming problems. Applications to practical problems are introduced throughout the course, with an emphasis on problems in the logistics o  production, distribution, transportation, and telecommunication systems.",
+        "duraion": "220 Hr",
+        "photo_url": "https://www.nottingham.ac.uk/computerscience/images-multimedia/col-logo.png"
+    }
+]
